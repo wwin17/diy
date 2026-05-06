@@ -2,10 +2,12 @@
 ABC,https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
 ABC,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 ABC,https://c.mjh.nz/abc-news.m3u8
+ABC,http://41.205.93.154/ABC/index.m3u8
 
 
 AL JAZEERA,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 AL JAZEERA,https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+AL JAZEERA,https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8
 
 
 BBC,https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
@@ -82,15 +84,6 @@ Go2Travel,https://go2thls.wns.live/hls/stream.m3u8
 
 
 InTravel,https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
-
-
-Living Asia Channel,https://cdn.vegasplus.us/vegas/lac/playlist.m3u8
-
-
-Travel+Adventure,http://31.148.48.15/Travel_Adventure_HD/index.m3u8
-
-
-TV Sayohi,https://live.teleradiocom.tj/16/3m.m3u8
 
 
 CGNTV Japan,https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
