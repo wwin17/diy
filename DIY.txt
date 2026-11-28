@@ -1,73 +1,68 @@
-﻿
-ABC,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
-ABC,https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
 ABC,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-ABC,https://c.mjh.nz/abc-news.m3u8
-ABC,http://41.205.93.154/ABC/index.m3u8
+ABC,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
 
 
-AL JAZEERA,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 AL JAZEERA,https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 AL JAZEERA,https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8
+AL JAZEERA,https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/al_jazeera_english/live.livx/playlist.m3u8
+AL JAZEERA,https://live-hls-web-aje-fa.thehlive.com/AJE/index.m3u8
+AL JAZEERA,https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8
 
 
-BBC,https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
-BBC,https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
-BBC,http://nor2live.win:80/livehttpplay?channel_id=16531
 BBC,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+BBC,https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
+BBC,https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd
+BBC,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8
+BBC,https://tvsen1.aynaott.com/shn6jGTk/index.m3u8
 
 
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_1.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_1.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+CNA,https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
+CNA,https://amg01082-cna-amg01082c1-vidaa-gb-7580.playouts.now.amagi.tv/playlist.m3u8
+CNA,https://freem3u.xyz/api/live/play.m3u8?vid=112
 
 
 CNN,https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
-CNN,https://dqmhiwgbe98iq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1e8xhm2nv4xdw/index.m3u8
-CNN,https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/e18752ea-666a-42c4-bae6-39aee18b24ad/0.m3u8
 CNN,https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
-CNN,https://jmp2.uk/stvp-GBBD8000016N
-CNN,https://jmp2.uk/stvp-ATBD800001VA
+CNN,https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/e18752ea-666a-42c4-bae6-39aee18b24ad/0.m3u8
+CNN,https://dqmhiwgbe98iq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1e8xhm2nv4xdw/index.m3u8
 CNN,http://d029dcec.kazmazpaz.ru/iptv/FHKC2D3GGKYK3Q/6499/index.m3u8
 CNN,http://d029dcec.kazmazpaz.ru/iptv/FHKC2D3GGKYK3Q/31301/index.m3u8
-CNN,http://lunar.pm:8080/live/kita/Twin/104092.ts
+CNN,https://p13.usnlive.com/stream/cnn.m3u8
+CNN,https://d2sybdl23b9psq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bocx3i7bjz0dg/CNNFAST_GB.m3u8
+CNN,https://vid.hls.protv.ro/liveibu8/liveibu8_highw/index.m3u8?1
 
 
-Euronews,https://dash4.antik.sk/live/test_euronews/playlist.m3u8
 Euronews,https://cdn-euronews.akamaized.net/live/eds/euronews-de/25084/euronews-de.m3u8
+Euronews,https://dash4.antik.sk/live/test_euronews/playlist.m3u8
+Euronews,https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
+Euronews,https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8
 
 
 France24,https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
-France24,https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
-France24,https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8
 France24,https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
+France24,https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8
+France24,https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 France24,https://dash3.antik.sk/live/test_france24_eng/playlist.m3u8
+France24,https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_900.m3u8
+France24,https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8
+France24,https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_500.m3u8
 
 
-凤凰中文,http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-凤凰中文,http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
-凤凰中文,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-
-
-凤凰资讯,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
-凤凰资讯,http://125.210.152.18:9090/live/FHZX_1200.m3u8
-
-
-中天新闻,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
-中天新闻,http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8
 中天新闻,http://111.0.115.129:8081/live/222ztxw.m3u8
-中天新闻,http://safe.shanghairta.com:8081/live/555ztxw.m3u8
 中天新闻,rtmp://47.238.2.198/live/888ztxw
 
 
-China Travel,https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
+China Travel,https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
 
 
 InTravel,https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
+InTravel,https://amg00861-amg00861c22-stirr-us-8773.playouts.now.amagi.tv/playlist.m3u8
 
 
 CGNTV Japan,https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
